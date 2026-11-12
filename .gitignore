@@ -14,3 +14,6 @@ venv/
 .idea/
 .DS_Store
 Thumbs.db
+run.log
+run.err
+verify_app.py
