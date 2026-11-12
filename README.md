@@ -2,6 +2,8 @@
 
 第一个部署到公网的 Streamlit 项目。输入一段文本和模型单价，估算 token 数与调用成本，用来建立写 AI 应用必备的**成本意识**。
 
+🔗 **在线体验**：<https://llm-cost-calculator-ydiwabxmzr5dqjzucdey.streamlit.app/>
+
 ## 本地运行
 
 推荐用 [uv](https://docs.astral.sh/uv/)（快 10 倍，且不会踩 `ensurepip` 的坑）：
