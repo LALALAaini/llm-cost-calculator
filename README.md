@@ -2,7 +2,7 @@
 
 第一个部署到公网的 Streamlit 项目。输入一段文本和模型单价，估算 token 数与调用成本，用来建立写 AI 应用必备的**成本意识**。
 
-🔗 **在线体验**：<https://llm-cost-calculator-ydiwabxmzr5dqjzucdey.streamlit.app/>
+🔗 **在线体验**：<https://llm-cost-calculator-ydifwabxmzr9dq2juzcu8y.streamlit.app/>
 
 ## 本地运行
 
